@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(7, 7, 7);
+    color:white;
+}
+    
+p .card{
+    color: white;
+}
+.logo {
+    width: 50px;
+}
+
+h2{
+    color: rgb(57, 55, 180);
+}
+h6{
+    color: rgb(245, 239, 239);
+}
+.card-film {
+    min-height: 450px;
+}
+.text-muted {
+    color: rgb(245, 239, 239)!important;
+}
+
+.card-film .card-body{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: rgb(57, 55, 180);
+    border: 2px;
+    
+    
+}
+.card{
+    background-color: rgb(245, 241, 240);
+}
+.cor{
+    background:#030303;
+}
+
+.navbar-light .navbar-brand{
+color:rgb(55, 6, 231);
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 0.6cm;
+}
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color :rgb(247, 246, 253);
+}
+/* cor do botões */
+.btn-primary {
+    background-color:#030303;
+    border-color: rgb(247, 242, 242);
+
+}
+.logo{
+    width: 50px;
+}
+
+.page-item.active .page-link { 
+    background-color:rgb(31, 29, 29);;
+    border-color: #FFF0F5;
+}
+
+.footer {
+    background-color: #030303;
+}
+.footer a{
+    color:rgb(55, 6, 231);;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
